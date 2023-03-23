@@ -3,7 +3,7 @@
     <title>Denuncias UABC</title>
     <link href="https://denunciasuabc.github.io/home/feed.xml" rel="self" />
     <link href="https://denunciasuabc.github.io/home" />
-    <updated>2023-03-22T17:24:07-07:00</updated>
+    <updated>2023-03-22T17:32:25-07:00</updated>
     <author>
         <name>unknown</name>
     </author>
@@ -64,7 +64,7 @@
         <link href="https://denunciasuabc.github.io/home/protocolo-de-denuncia.html"/>
         <id>https://denunciasuabc.github.io/home/protocolo-de-denuncia.html</id>
 
-        <updated>2023-03-22T17:24:07-07:00</updated>
+        <updated>2023-03-22T17:32:25-07:00</updated>
             <summary>
                 <![CDATA[
                     Para garantizar el anonimato en la denuncia, hemos decidido utilizar OnionShare que utiliza la red TOR. El proceso es muy sencillo pero para Denuncias UABC es importante que sepas qué hay detras del mismo. Si deseas saber más de como funciona la red TOR puedes&hellip;
@@ -148,13 +148,13 @@
 <li>Abre el navegador TOR y presiona el boton de Conect o Conectar</li>
 <li>Toca la sección para poner una dirección en la parte inferior</li>
 <li>Toca el boton de Scan y dale permiso a la app de usar tu cámara</li>
-<li>Escanea el siguiente QR <figure class="post__image"><img loading="lazy"  src="https://denunciasuabc.github.io/home/media/posts/2/send-files-3.jpg" sizes="100vw" srcset="https://denunciasuabc.github.io/home/media/posts/2/responsive/send-files-3-xs.jpg 300w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/send-files-3-sm.jpg 480w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/send-files-3-md.jpg 768w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/send-files-3-lg.jpg 1024w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/send-files-3-xl.jpg 1360w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/send-files-3-2xl.jpg 1600w"  alt="" width="358" height="358"></figure>
+<li>Escanea el siguiente QR <figure class="post__image"><img loading="lazy"  src="https://denunciasuabc.github.io/home/media/posts/2/qr-code.png" sizes="100vw" srcset="https://denunciasuabc.github.io/home/media/posts/2/responsive/qr-code-xs.png 300w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/qr-code-sm.png 480w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/qr-code-md.png 768w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/qr-code-lg.png 1024w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/qr-code-xl.png 1360w ,https://denunciasuabc.github.io/home/media/posts/2/responsive/qr-code-2xl.png 1600w"  alt="" width="304" height="304"></figure>
 <ul>
 <li>Tambien puedes copiar la dirección: </li>
 </ul>
 </li>
 </ol>
-<p>kpcdl42l73g2w3letxxumybbq5u4wa5ybgz6ftde5euvc5nrltelblqd.onion</p>
+<p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="noopener noreferrer">http://kpcdl42l73g2w3letxxumybbq5u4wa5ybgz6ftde5euvc5nrltelblqd.onion</a></p>
 <ol>
 <li>Permite a TOR que te envíe a 
 <ul>
